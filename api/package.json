@@ -19,6 +19,6 @@
     "url": "git+https://github.com/corno/astn-tokenconsumer.git"
   },
   "types": "dist/index.d.ts",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "content-fingerprint": "578ec89fc29a03a609b95269b25826f8271bd3eb"
 }
